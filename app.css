@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Black+Ops+One|Keania+Oney');
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  text-align: center;
+  color: #fff;
+  font-family: 'Black Ops One', cursive;
+}
+
+
+
+#buttons {
+  padding: 5%;
+}
+
+.logo {
+  border-radius: 50%;
+  border: 2px solid red;
+  height: 100%;
+  width: 30vh;
+  margin: 10% 20%;
+}
+
+#name {
+  margin: 10vh 5vh 5vh 10vh;
+  font-size: 2.0em;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+}
+
+#streaming {
+  font-size: 1.3em;
+  font-style: san serif;
+  margin: 0vh 5vh 5vh 10vh;
+  font-family: 'Keania One', cursive;
+}
+
+.result {
+  background: black;
+  margin: 2%;
+  border-radius: 10px;
+}
